@@ -11,7 +11,7 @@ This plugin disables and hides native login within a WordPress site. This is sui
 
 ---
 
-# Dewscription
+# Description
 
 This plugin disables and hides native login within a WordPress site. This is suitable for WordPress sites that allow login through SSO.
 
